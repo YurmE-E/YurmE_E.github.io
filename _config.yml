@@ -1,6 +1,11 @@
 # Site settings
+<<<<<<< Updated upstream
 title: Hux Blog
 SEOTitle: 黄玄的博客 | Hux Blog
+=======
+title: "쉽않생."
+SEOTitle: "킹뿌둥 | YurmE_Elog"
+>>>>>>> Stashed changes
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
